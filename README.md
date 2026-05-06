@@ -47,22 +47,6 @@ The full loop plays out in under 5 minutes with a live audience. The demo use ca
 
 ---
 
-## Design System
-
-| Token | Value |
-|-------|-------|
-| Background | `#F2DFB5` — warm beige |
-| Cards | `#FFFFFF` |
-| Primary / success | `#556B2F` — olive green |
-| Headings | `#3A4A1F` — dark olive |
-| Secondary text | `#8A7D5A` |
-| Failure / loss | `#8B2E2E` — muted red |
-| Presentation Mode bg | `#3A4A1F` |
-
-Font: Inter. Rounded corners 12–16px. Mobile-first 390px.
-
----
-
 ## Architecture
 
 ```
