@@ -2,7 +2,7 @@
 
 **Points-based social accountability. Stake your credibility. Let friends bet on whether you'll deliver.**
 
-[Live Demo](https://lnkd.in/gvJSEQAe) · [Landing Page](https://lnkd.in/gJaXxUne)
+[Live Demo](https://app-b1j7mqtf8rgh.appmedo.com) · [Landing Page](https://clutchbymedo.framer.website)
 
 Built at **NUS Ship It Hackathon, April 2026**.
 
